@@ -40,7 +40,7 @@ class ATM {
             depositMoney();
         }
         else if (opt == 4) {
-//            System.out.println("-----------Thank You-----------");
+
             System.out.print("Exiting");
             Thread.sleep(500);
             int i = 5;
